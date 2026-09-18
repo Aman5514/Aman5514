@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm Aman Gupta 👋</h1>
-
-<h3 align="center">Full-Stack Engineer · React Native & AR Developer · Building for the web, mobile & spatial computing</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E86FF,100:6c47ff&height=200&section=header&text=Aman%20Gupta&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Engineer%20%C2%B7%20React%20Native%20%2B%20DevOps&descAlignY=55&descSize=18" width="100%"/>
+</p>
 
 <p align="center">
   <em># People don't care about what you say, they care about what you build. 🚀</em>
@@ -56,16 +56,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aman5514&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman5514&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Aman5514&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=2E86FF&icon_color=6c47ff" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman5514&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=2E86FF" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aman5514&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Aman5514&theme=tokyonight&hide_border=true&background=0d1117&ring=2E86FF&fire=6c47ff&currStreakLabel=2E86FF" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aman5514&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Aman5514&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="Trophies" />
 </p>
 
 ---
@@ -111,4 +111,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Aman5514&style=flat-square&color=blue" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6c47ff,100:2E86FF&height=100&section=footer" width="100%"/>
 </p>
