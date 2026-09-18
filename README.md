@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E86FF,100:6c47ff&height=200&section=header&text=Aman%20Gupta&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Engineer%20%C2%B7%20DevOps%20%C2%B7%20Security%20%2B%20Compliance&descAlignY=55&descSize=18" width="100%"/>
+  <img src="./assets/banner.svg" width="100%" alt="Aman Gupta — Full-Stack Engineer · DevOps · Security & Compliance"/>
 </p>
 
 <p align="center">
@@ -131,5 +131,5 @@ Engineering systems that hold up to an audit, not just a demo.
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6c47ff,100:2E86FF&height=100&section=footer" width="100%"/>
+  <img src="./assets/footer.svg" width="100%" alt=""/>
 </p>
