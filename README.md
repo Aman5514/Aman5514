@@ -70,7 +70,6 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aman5514&theme=tokyonight" height="200" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aman5514&theme=tokyonight&utcOffset=5.5" height="200" alt="Productive Time" />
 </p>
 
 ---
